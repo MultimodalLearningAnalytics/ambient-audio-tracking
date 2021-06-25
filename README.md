@@ -6,7 +6,7 @@ Multiple scripts to record and process audio to detect distracting sounds in the
 ### audio
 The audio files used during the experiment to distract the participants.
 ### AudioProcessingTool
-Tool used to do various post processing steps like reprocessing audio, ingesting csv files and applying multimodal joines
+PSI/C# tool used to do various post processing steps like reprocessing audio, ingesting csv files and applying multimodal joines
 ### config
 Contains two config files for the audio_processor and play_audio_vlc scripts
 ### tensor_flow_scripts
