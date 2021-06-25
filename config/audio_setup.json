@@ -1,0 +1,21 @@
+{
+    "audio": { 
+        "block": 4410, 
+        "rate": 44100, 
+        "channels": 1 
+    }, 
+    
+    "socket": { 
+        "sub_ip": "127.0.0.1:25565", 
+        "pub_ip": "127.0.0.1:12345",
+        "raw_data_topic": "ep-audio-raw", 
+        "freq_topic": "ep-audio-freq", 
+        "sync_time": true
+    },
+
+    "usage": {
+        "matplotlib_use": false,
+        "wav_use": false,
+        "online": true
+}
+}

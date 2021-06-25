@@ -1,0 +1,20 @@
+{
+    "audio": { 
+        "block": 4096, 
+        "rate": 44100, 
+        "channels": 1 
+    }, 
+    
+    "socket": { 
+        "sub_ip": "127.0.0.1:25565", 
+        "pub_ip": "127.0.0.1:12347",
+        "sound_played_topic": "sound-played",
+        "sync_time": true
+    },
+
+    "usage": {
+        "online": true,
+        "ids": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"],
+        "sounds": [["", "id_m_1", "id_m_2", "id_m_3", "id_m_1", "id_m_2", "id_m_3", "id_m_1", "id_m_2", "id_m_3"], ["", "400-750-0125", "400-750-0500", "400-750-0875", "brainfm_1", "construction_1", "smiler_start", "relaxing_rain", "song_giggle_phill", "machine_1"], ["", "400-750-0250", "400-750-0625", "400-750-1000", "brainfm_2", "construction_2", "phantomman", "relaxing_swamp", "song_sneaky_links", "machine_2"], ["", "400-750-0375", "400-750-0750", "400-750-1125", "brainfm_3", "construction_3", "smiler_second", "relaxing_waterfall", "song_up_in_trouble", "machine_3"], ["", "400-500-0500", "400-650-0500", "400-800-0500", "brainfm_2", "construction_2", "phantomman", "relaxing_swamp", "song_sneaky_links", "machine_2"], ["", "400-550-0500", "400-700-0500", "400-850-0500", "brainfm_3", "construction_3", "smiler_second", "relaxing_waterfall", "song_up_in_trouble", "machine_3"], ["", "400-600-0500", "400-750-0500", "400-900-0500", "brainfm_1", "construction_1", "smiler_start", "relaxing_rain", "song_giggle_phill", "machine_1"], ["", "200-300-0500", "500-600-0500", "800-900-0500", "brainfm_3", "construction_3", "smiler_second", "relaxing_waterfall", "song_up_in_trouble", "machine_3"], ["", "300-400-0500", "600-700-0500", "900-1000-0500", "brainfm_1", "construction_1", "smiler_start", "relaxing_rain", "song_giggle_phill", "machine_1"], ["", "400-500-0500", "700-800-0500", "1000-1100-0500", "brainfm_2", "construction_2", "phantomman", "relaxing_swamp", "song_sneaky_links", "machine_2"]]
+}
+}
